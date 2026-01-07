@@ -1,5 +1,5 @@
 
-# Teorema do Horizonte de Probabilidades
+# Teorema do Horizonte de Probabilidades: Limiares Dinâmico-Informacionais em Sistemas Probabilísticos Adaptativos.
 
 ## Resumo
 
@@ -251,4 +251,88 @@ O Teorema do Horizonte de Probabilidades estabelece que o colapso da incerteza e
 A CFC organiza o espaço do possível. O Horizonte organiza o espaço do acessível. Um é estrutural e estático; o outro, dinâmico e inferencial. Juntos, oferecem uma linguagem unificada para compreender por que, em sistemas complexos, nem tudo o que é concebível permanece alcançável.
 
 Essa não é uma limitação da teoria. É a assinatura geométrica da inteligência, da adaptação e, em última instância, da própria realidade probabilística.
+
+
+# Referências
+
+## Entropia, Informação e Inferência
+
+[1] Shannon, C. E. (1948). *A Mathematical Theory of Communication*. Bell System Technical Journal, 27, 379–423, 623–656.
+
+[2] Jaynes, E. T. (1957). *Information Theory and Statistical Mechanics*. Physical Review, 106(4), 620–630.
+
+[3] Jaynes, E. T. (2003). *Probability Theory: The Logic of Science*. Cambridge University Press.
+
+[4] Gibbs, J. W. (1902). *Elementary Principles in Statistical Mechanics*. Yale University Press.
+
+[5] Boltzmann, L. (1896). *Lectures on Gas Theory*. University of California Press.
+
+---
+
+## Geometria da Informação
+
+[6] Rao, C. R. (1945). *Information and the Accuracy Attainable in the Estimation of Statistical Parameters*. Bulletin of the Calcutta Mathematical Society, 37, 81–91.
+
+[7] Amari, S.-I. (1985). *Differential-Geometrical Methods in Statistics*. Springer.
+
+[8] Amari, S.-I., & Nagaoka, H. (2000). *Methods of Information Geometry*. American Mathematical Society.
+
+[9] Amari, S.-I. (2016). *Information Geometry and Its Applications*. Springer.
+
+---
+
+## Inferência Bayesiana e Máxima Entropia
+
+[10] Csiszár, I., & Shields, P. C. (2004). *Information Theory and Statistics: A Tutorial*. Foundations and Trends in Communications and Information Theory, 1(4).
+
+[11] Caticha, A. (2012). *Entropic Inference and the Foundations of Physics*. Universidad Nacional de La Plata.
+
+[12] Cover, T. M., & Thomas, J. A. (2006). *Elements of Information Theory*. Wiley-Interscience.
+
+---
+
+## Dinâmica de Distribuições e Processos Estocásticos
+
+[13] van Kampen, N. G. (2007). *Stochastic Processes in Physics and Chemistry*. North-Holland.
+
+[14] Gardiner, C. W. (2004). *Handbook of Stochastic Methods*. Springer.
+
+[15] Lasota, A., & Mackey, M. C. (1994). *Chaos, Fractals, and Noise: Stochastic Aspects of Dynamics*. Springer.
+
+---
+
+## Fluxos no Espaço de Probabilidades e Transporte Ótimo
+
+[16] Jordan, R., Kinderlehrer, D., & Otto, F. (1998). *The Variational Formulation of the Fokker–Planck Equation*. SIAM Journal on Mathematical Analysis, 29(1), 1–17.
+
+[17] Villani, C. (2009). *Optimal Transport: Old and New*. Springer.
+
+[18] Santambrogio, F. (2015). *Optimal Transport for Applied Mathematicians*. Birkhäuser.
+
+---
+
+## Transições de Fase e Estruturas Emergentes
+
+[19] Landau, L. D., & Lifshitz, E. M. (1980). *Statistical Physics*. Pergamon Press.
+
+[20] Haken, H. (1977). *Synergetics: An Introduction*. Springer.
+
+---
+
+## Horizontes, Estruturas Globais e Geometria
+
+[21] Hawking, S. W., & Ellis, G. F. R. (1973). *The Large Scale Structure of Space-Time*. Cambridge University Press.
+
+[22] Geroch, R. (1977). *Domain of Dependence*. Journal of Mathematical Physics, 11, 437–449.
+
+---
+
+## Contribuições Originais
+
+[23] Davyd, H. (manuscrito).  
+*Curva Finita Central: Uma Estrutura Estatística Global no Espaço de Distribuições de Probabilidade*.
+
+[24] Davyd, H. (manuscrito).  
+*Teorema do Horizonte de Probabilidades: Limiares Dinâmico-Informacionais em Sistemas Probabilísticos Adaptativos*.
+
 
